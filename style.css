@@ -1,0 +1,16 @@
+.btn-panda {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    color: #fff;
+    border: 1x solid transparent;
+}
+
+.btn-panda:hover {
+    background: linear-gradient(180deg, #FF136F 99.99%, #FF589B -0.01%);
+    border-radius: 6px;
+    color: #fff;
+}
+
+.bg-panda {
+    background-color: #FEEAE9;
+}
